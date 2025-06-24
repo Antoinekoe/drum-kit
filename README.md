@@ -4,8 +4,6 @@
 
 FRENCH VERSION – A lightweight and responsive drum kit built with **HTML**, **CSS**, and **Javascript**. Interact using your **keyboard** or **mouse** to play various percussion sounds.
 
----
-
 ## ✨ Features
 
 - **Interactive UI:** Click or press keys to trigger drum sounds.
@@ -13,8 +11,6 @@ FRENCH VERSION – A lightweight and responsive drum kit built with **HTML**, **
 - **Keyboard Support:** Each key corresponds to a drum sound.
 - **Responsive Design:** Works across all screen sizes (desktop, tablet, mobile).
 - **Modular Architecture:** Clean separation between views, logic, and static assets.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -24,8 +20,6 @@ FRENCH VERSION – A lightweight and responsive drum kit built with **HTML**, **
   - Javascript (Vanilla)
 - **Other:**
   - Git (version control)
-
----
 
 ## 🚀 Installation
 
@@ -38,8 +32,6 @@ FRENCH VERSION – A lightweight and responsive drum kit built with **HTML**, **
 
 2. **Open the project in your browser:**
    You can use a local server like Live Server (VS Code extension), or simply open index.html in your preferred browser.
-
----
 
 ## 🗂️ Project Structure
 
@@ -59,8 +51,6 @@ DrumKit/
 └── styles.css      # CSS file for styling the drum kit elements
 ```
 
----
-
 ## 🤝 How to Contribute
 
 1. Fork the repository.
@@ -71,8 +61,6 @@ DrumKit/
 3. Commit your changes clearly.
 4. Push your branch and open a Pull Request.
 
----
-
 ## 🔧 Potential Improvements (TODO)
 
 - Add volume controls.
@@ -81,8 +69,6 @@ DrumKit/
 - Include touch support for mobile users.
 - Implement sound packs (e.g., rock, hip-hop, electronic).
 - Add dark/light theme toggle.
-
----
 
 ## 🔑 License
 
